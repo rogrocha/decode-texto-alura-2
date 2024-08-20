@@ -37,7 +37,7 @@ Para cada caractere no texto de entrada:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd alura-text-decoder-challenge
+    
     ```
 3. Open the `index.html` file in your web browser to run the application.
 
