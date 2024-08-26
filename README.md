@@ -6,7 +6,7 @@ O **Alura Text Decoder Challenge** é um projeto desenvolvido como parte dos des
 
 ## Algoritimo
 
-- **Initialization**:
+- **Initializacao**:
   
   Um dicionário de regras de substituição (`chaves`) é inicializado, onde cada vogal é mapeada para uma string única:
   - 'a' → 'ai'
@@ -41,21 +41,6 @@ Para cada caractere no texto de entrada:
     ```
 3. Open the `index.html` file in your web browser to run the application.
 
-## Contributing
-Feel free to contribute to this project by following these steps:
-1. Fork the project.
-2. Create a new branch:
-    ```sh
-    git checkout -b my-new-feature
-    ```
-3. Make your changes and commit them:
-    ```sh
-    git commit -m "Add my new feature"
-    ```
-4. Push to the original repository:
-    ```sh
-    git push origin my-new-feature
-    ```
-5. Create a Pull Request.
+
 
 
